@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5153" started-at="2020-06-20T01:59:41 CDT" finished-at="2020-06-20T01:59:46 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5153" started-at="2020-06-20T01:59:41 CDT" finished-at="2020-06-20T01:59:46 CDT">
+      <class name="Dictionary.FindMeaning">
+        <test-method status="PASS" signature="findMeaning()[pri:0, instance:Dictionary.FindMeaning@30b8a058]" name="findMeaning" duration-ms="5110" started-at="2020-06-20T01:59:41 CDT" finished-at="2020-06-20T01:59:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findMeaning -->
+      </class> <!-- Dictionary.FindMeaning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
